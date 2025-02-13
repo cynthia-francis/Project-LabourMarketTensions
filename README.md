@@ -50,9 +50,9 @@ Pour les utilisateurs souhaitant reproduire le projet depuis le début, les scri
 
 Pour toute suggestion ou pour signaler des erreurs, vous pouvez contacter :
 
--   Alfonso Awadalla-Carreño : [alfonso.awadalla-carreno\@polytechnique.edu](mailto:alfonso.awadalla-carreno@polytechnique.edu){.email}
--   Anahi Reyes-Miguel : [anahi.reyes-miguel@polytechnique.edu](mailto:anahi.reyes-miguel@polytechnique.edu){.email}
--   Cynthia Francis : [cynthia.francis@polytechnique.edu](mailto:cynthia.francis@polytechnique.edu){.email}
+-   Alfonso Awadalla-Carreño : [alfonso.awadalla-carreno\@polytechnique.edu](mailto:alfonso.awadalla-carreno@polytechnique.edu)
+-   Cynthia Francis : [cynthia.francis@polytechnique.edu](mailto:cynthia.francis@polytechnique.edu)
+-   Anahi Reyes-Miguel : [anahi.reyes-miguel@polytechnique.edu](mailto:anahi.reyes-miguel@polytechnique.edu)
 
 
 Les contributions et collaborations visant à améliorer l’outil sont les bienvenues.
@@ -118,9 +118,9 @@ For users who wish to reproduce the project from scratch, the necessary scripts 
 
 For feedback, suggestions, or to report errors, please contact:
 
--   Alfonso Awadalla-Carreño : [alfonso.awadalla-carreno\@polytechnique.edu](mailto:alfonso.awadalla-carreno@polytechnique.edu){.email}
--   Anahi Reyes-Miguel : [anahi.reyes-miguel@polytechnique.edu](mailto:anahi.reyes-miguel@polytechnique.edu){.email}
--   Cynthia Francis : [cynthia.francis@polytechnique.edu](mailto:cynthia.francis@polytechnique.edu){.email}
+-   Alfonso Awadalla-Carreño : [alfonso.awadalla-carreno\@polytechnique.edu](mailto:alfonso.awadalla-carreno@polytechnique.edu)
+-   Cynthia Francis : [cynthia.francis@polytechnique.edu](mailto:cynthia.francis@polytechnique.edu)
+-   Anahi Reyes-Miguel : [anahi.reyes-miguel@polytechnique.edu](mailto:anahi.reyes-miguel@polytechnique.edu)
 
 
 We welcome contributions and collaborations to improve the tool further.
