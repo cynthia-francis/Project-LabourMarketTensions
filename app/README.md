@@ -1,4 +1,4 @@
-![](images/app.png)
+![](Pictures/app.png)
 
 # 📂 `app/` — Application Dash pour la Tension sur le Marché du Travail
 
@@ -13,7 +13,7 @@ La carte affichera la tension sur le marché du travail en fonction des filtres 
 
 ## Installation
 
-Assurez-vous que les fichiers nécessaires sont dans le dossier "data/" pour faire fonctionner l'application.
+Assurez-vous que les fichiers nécessaires sont dans le dossier "data/" pour faire fonctionner l'application. Pour recréer cette dernière, il suffit d'exécuter le notebook `labour_tightness_dashboard.ipynb`.
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ The map will display labour market tightness based on the selected filters. An a
 
 ## Installation
 
-Ensure that the necessary files are in the "data/" folder to run the application.
+Ensure that the necessary files are in the "data/" folder to run the application. To recreate the latest simply run the notebook `labour_tightness_dashboard.ipynb`.
